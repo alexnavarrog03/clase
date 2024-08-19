@@ -82,7 +82,7 @@
     <div class="container">
         <div class="car-list">
             <div class="car-item">
-                <img src="https://via.placeholder.com/300x200" alt="Coche 1">
+                <img src="https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/10258/ferrari-488-gtb-1.jpg?crop=0.888888888888889xw:1xh;center,top&resize=1200:*" alt="Coche 1">
                 <h3>Ferrari 488</h3>
                 <p>Un coche deportivo de alto rendimiento con un motor V8 turbo.</p>
             </div>
