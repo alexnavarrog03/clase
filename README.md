@@ -96,6 +96,115 @@
                 <h3>Porsche 911</h3>
                 <p>El clásico Porsche con un diseño atemporal y un rendimiento increíble.</p>
             </div>
+        <a href="pagina2.html" class="next-button">Siguiente</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Galería de Coches. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de Coches - Página 2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .car-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+
+        .car-item {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            width: calc(33.333% - 20px);
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        .car-item img {
+            width: 100%;
+            height: auto;
+        }
+
+        .car-item h3 {
+            margin: 0;
+            padding: 15px;
+            background-color: #333;
+            color: white;
+        }
+
+        .car-item p {
+            padding: 15px;
+            color: #555;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Galería de Coches - Página 2</h1>
+        <p>Continúa explorando nuestra selección de coches de lujo</p>
+    </header>
+
+    <div class="container">
+        <div class="car-list">
+            <div class="car-item">
+                <img src="https://via.placeholder.com/300x200" alt="Coche 4">
+                <h3>McLaren 720S</h3>
+                <p>Un superdeportivo británico con un motor V8 de doble turbo y una aceleración increíble.</p>
+            </div>
+            <div class="car-item">
+                <img src="https://via.placeholder.com/300x200" alt="Coche 5">
+                <h3>Aston Martin DB11</h3>
+                <p>Un gran turismo elegante y potente, con un motor V12 y un diseño sofisticado.</p>
+            </div>
+            <div class="car-item">
+                <img src="https://via.placeholder.com/300x200" alt="Coche 6">
+                <h3>Bugatti Chiron</h3>
+                <p>El coche más rápido del mundo, con un motor W16 y una velocidad máxima impresionante.</p>
+            </div>
         </div>
     </div>
 
