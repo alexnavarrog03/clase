@@ -86,6 +86,10 @@
                 <h3>Ferrari 488</h3>
                 <p>Un coche deportivo de alto rendimiento con un motor V8 turbo.</p>
             </div>
+            <div class="prueba">
+            <img src="alexnavarrog03/clase/descarga.jpg"
+            <h3>Prueba</h3>
+            <p>esto es una prueba</p>
             <div class="car-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbogSGzP6wBTNYqehJkhc5mzUPIFGJ5LSCKA&s" alt="Coche 2">
                 <h3>Lamborghini Aventador</h3>
